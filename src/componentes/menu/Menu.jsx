@@ -6,6 +6,7 @@ return(
         <ul>
             <li><Link to="/">Inicio</Link> </li>
             <li><Link to="/juguetes">Juguetes</Link> </li>
+            <li><Link to="/Login">Log in</Link> </li>
            
         </ul>
     </nav>

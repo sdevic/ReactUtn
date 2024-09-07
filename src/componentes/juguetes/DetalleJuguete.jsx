@@ -1,10 +1,9 @@
 import { useEffect, useState } from "react";
 import { juguetesJson } from "./datosJuguetes";
-import {  useParams } from "react-router-dom";
+import { Link, useParams } from "react-router-dom";
+import DetalleJuguete from "./DetalleJuguete";
 
-function DetalleJuguete(){
-  
-        console.log("algo")
-    }
+function Detallejuguete(){
+}
 
-export default DetalleJuguete;
+export default Detallejuguete;
